@@ -29,7 +29,7 @@ Before running the services, ensure you have the following prerequisites install
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/python-rabbitmq-services.git
+   git clone https://github.com/Suraj1621/python-rabbitmq-services.git
    ```
 
 2. Navigate to the project directory:
