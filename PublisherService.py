@@ -21,6 +21,8 @@ logger = logging.getLogger(__name__)
 
 
 class MessageProcessor:
+  
+  
     def __init__(self, mongodb_uri, db_name, collection_name, rabbitmq_host, rabbitmq_port, rabbitmq_queue):
         self.mongodb_uri = mongodb_uri
         self.db_name = db_name
