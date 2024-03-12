@@ -7,7 +7,6 @@ This repository contains a pair of Python services for message exchange via Rabb
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,36 +41,6 @@ Before running the services, ensure you have the following prerequisites install
 
    ```bash
    pip install -r requirements.txt
-   ```
-
-## Usage
-
-### Publisher Service
-
-1. Navigate to the `publisher` directory:
-
-   ```bash
-   cd publisher
-   ```
-
-2. Execute the publisher script:
-
-   ```bash
-   python PublisherService.py
-   ```
-
-### Sender Service
-
-1. Navigate to the `sender` directory:
-
-   ```bash
-   cd sender
-   ```
-
-2. Run the sender script:
-
-   ```bash
-   python SenderService.py
    ```
 
 ## Configuration
